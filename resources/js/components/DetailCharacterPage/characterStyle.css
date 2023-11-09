@@ -1,0 +1,15 @@
+.my_labelStyle{
+    margin-right: 11px;
+    min-width: 77px;
+    display: inline-block;
+}
+
+.element{
+     max-height: 250px;
+     overflow: auto;
+}
+
+.characterName{
+    font-family: cursive;
+    font-size: 22px;
+}
